@@ -1,25 +1,31 @@
 # -*- coding: utf-8 -*-
+"""
+Created on Sat Jan 26 18:24:20 2013
 
-import sys
+@author: kathryn
+"""
 
-stop_phrases = ['(TOP', '(S', '(SQ', '(FRAG', '(NP', '(VP', '(PP', \
-    '(ADJP', '(ADVP', '(PUNC']
+stop_phrases = ['(TOP', '(S', '(SQ', '(FRAG', '(NP', '(VP', '(PP', '(ADJP', '(ADVP',\
+        '(PUNC']
 
-def print_tree(sentences):
+# Returns parses in string representation
+def print_parses(sentences):
     output = ''
     sentence_num = 1
     
     for sentence in sentences:
         for parse in sentence:
             parse = parse.split()
-            output += print_subtree(parse)
+            output += print_tree(parse)
             output += '\n\n'
         output += str(sentence_num) + '\n' + '-' * 40 + '\n'
         sentence_num += 1
     
     return output
 
-def print_subtree(parse):
+# Returns a string representation of
+# a given tree
+def print_tree(parse):
     
     global stop_phrases
     
@@ -40,14 +46,13 @@ def print_subtree(parse):
             string += ' ' + parse[index]
             open_paren -= close_paren(parse[index])
             depth = open_paren
-            if open_paren < depth:
-                string += '\n'
             
         index += 1
                 
     return string
     
-    
+# Returns number of close parentheses attached
+# to a token
 def close_paren(string):
     num = 0
     index = -1
@@ -58,5 +63,4 @@ def close_paren(string):
 
     return num
 
-sys.stdout.write(print_tree(sentences) + '\n')
 
