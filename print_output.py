@@ -43,3 +43,4 @@ def close_paren(string):
         index -= 1
 
     return num
+    

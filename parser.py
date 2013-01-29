@@ -106,7 +106,10 @@ class CKYParser:
         """
         N = len(sentence)
 
-        self.chart = (N+1)*[(N+1)*[None]]
+        # initializes (N+1)x(N+1) matrix to None
+        # using only list multiplication yields array
+        # of pointers to same array
+        self.chart = [(N+1)*[None] for row_label in xrange(N+1)]
         for j in xrange(1, N+1):
             token = sentence[j-1]
             self.chart[j-1][j] = map(Node, self.grammar.lhs_for_rhs(token, "lexical"))
@@ -117,14 +120,15 @@ class CKYParser:
                     # look at all node pairs from two split cells
                     # check if node pair is on RHS of any production
                     # and add node to appropriate cell
-                    for lnode in lcandidates:
-                        lsymbol = lnode.symbol
-                        for rnode in rcandidates:
-                            rsymbol = rnode.symbol
-                            # all mother node symbols that can dominate current pair
-                            # of node symbols
-                            msymbols = self.grammar.lhs_for_rhs([lsymbol, rsymbol], "phrasal")
-                            if msymbols and self.chart[i][j] is None:
-                                self.chart[i][j] = []
-                            for msymbol in msymbols:
-                                self.chart[i][j].append(Node(msymbol, lnode, rnode))
+                    if lcandidates and rcandidates:
+                        for lnode in lcandidates:
+                            lsymbol = lnode.symbol
+                            for rnode in rcandidates:
+                                rsymbol = rnode.symbol
+                                # all mother node symbols that can dominate current pair
+                                # of node symbols
+                                msymbols = self.grammar.lhs_for_rhs([lsymbol, rsymbol], "phrasal")
+                                if msymbols and self.chart[i][j] is None:
+                                    self.chart[i][j] = []
+                                for msymbol in msymbols:
+                                    self.chart[i][j].append(Node(msymbol, lnode, rnode))
