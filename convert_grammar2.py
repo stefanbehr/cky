@@ -96,12 +96,12 @@ with open(sys.argv[1]) as f:
         # do not process commented or empty lines
         if line != '' and line[0] != '#':
             line = line.split('->')
-            lhs = line[0]
+            lhs = line[0].strip()
             rhs = line[1:][0].strip().split('|')
-            skip = False
             
             for item in rhs:
                 rule = [lhs] + item.split()
+                skip = False
                 
                 # reserve unit productions for the end
                 if len(rule) == 2 and rule[1][0] != "'":
@@ -124,11 +124,19 @@ with open(sys.argv[1]) as f:
                     add_rule(rule)              # store final rule
                     output += stringify(rule)   # output final rule
 
+#for item in rule_map:
+    #print item
+    #print rule_map[item]
+    #print
+print rule_map
+    
+print
+print reserves
 # convert unit productions         
 for rule in reserves:
     if rule[1] in rule_map:
         for item in rule_map[rule[1]]:
-            output += stringify([rule[1]] + item)
+            output += stringify([rule[0]] + item)
 
 with open(sys.argv[2], 'w') as f:
     f.write(output)
