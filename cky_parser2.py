@@ -13,6 +13,8 @@ word_map = {}
 output = ''
 name = 0
 
+# Reads in given grammar file, stores
+# rules and words
 def get_grammar(filename):
     
     global rule_map
@@ -24,12 +26,14 @@ def get_grammar(filename):
             if line == '':
                 break
             line = line.strip()
+            
+            # do not process empty and commented lines
             if line != '' and not re.match(r'#', line):
                 line = line.split('->')
                 lhs = line[0].strip()
                 rhs = line[1].strip()
                 
-                # nonterminals
+                # store nonterminal rules
                 if not re.match(r"'", rhs):
                     rhs = rhs.split()
                     if rhs[0] not in rule_map:
@@ -39,13 +43,15 @@ def get_grammar(filename):
                     elif lhs not in rule_map[rhs[0]][rhs[1]]:
                         rule_map[rhs[0]][rhs[1]].append(lhs)
                         
-                # preterminals
+                # store preterminal rules
                 else:
                     rhs = rhs.strip("'")
                     if rhs not in word_map:
                         word_map[rhs] = []
                     word_map[rhs].append(lhs)
                     
+# Reads in given file, returns a list
+# of tokenized sentences
 def get_sentences(filename):
     sentences = []
     
@@ -55,6 +61,8 @@ def get_sentences(filename):
             if line == '':
                 break
             sentence = line.strip()
+            
+            # assumes no decimals in input
             if sentence != '':
                 sentence = re.sub(r'([\.,%?!])', r' \1 ', sentence).strip()
                 sentence = sentence.split()
@@ -62,21 +70,23 @@ def get_sentences(filename):
         
     return sentences
 
+# Parses the passed sentence and returns chart
 def parse(sentence):
     
     global rule_map
     global word_map
     global name
     
-    # assumes no decimals
     N = len(sentence)
     chart = [None] * (N + 1)
     
+    # traverse columns of chart
     for j in range(1, N + 1):
         chart[j] = [None] * j
         token = sentence[j - 1]
-        preterms = give_names(word_map[token], None, token)
-        chart[j][j - 1] = preterms
+        chart[j][j - 1] = give_names(word_map[token], None, token)
+        
+        # find possible constituents and store
         for i in range(j - 2, -1, -1):
             for k in range(i + 1, j):
                 if chart[k][i] is not None\
@@ -84,14 +94,15 @@ def parse(sentence):
                     Bs = chart[k][i]
                     Cs = chart[j][k]
                     terms = []
+                    
+                    # match left and right nodes to constituent
                     for B in Bs:
                         for C in Cs:
-                            if B[0] in rule_map:
-                                if C[0] in rule_map[B[0]]:
-                                    nonterms = rule_map[B[0]][C[0]]
-                                    nonterms = give_names(rule_map[B[0]][C[0]],\
-                                        [k, i, B[3]], [j, k, C[3]])
-                                    terms += nonterms
+                            if B[0] in rule_map and C[0] in rule_map[B[0]]:
+                                terms += give_names(rule_map[B[0]][C[0]],\
+                                    [k, i, B[3]], [j, k, C[3]])
+                    
+                    # store found constituents
                     if len(terms) > 0:
                         if chart[j][i] is None:
                             chart[j][i] = terms
@@ -100,28 +111,24 @@ def parse(sentence):
     
     return chart
 
-
+# Returns given terms as a list where
+# each item is a list of the term, the
+# indexes of its left daughter, the 
+# indexes of its right daughter and
+# a unique name
 def give_names(terms, orig_j, orig_i):
     
     global name
     
-    terms2 = []
+    named_terms = []
     for term in terms:
-        terms2.append([term, orig_j, orig_i, name])
+        named_terms.append([term, orig_j, orig_i, name])
         name += 1
     
-    return terms2
+    return named_terms
     
-def find_roots(root_list):
-    
-    roots = []
-    
-    for element in root_list:
-        if element[0] == 'TOP':
-            roots.append(element)
-
-    return roots
-    
+# Backtracks from root node, returns a list
+# of parses as bracketed labeled strings
 def backtrack(chart):
     parses = []
     
@@ -131,22 +138,35 @@ def backtrack(chart):
     
     return parses
 
+# Recurses on given node to generate and
+# return bracketed labeled string representation 
+# of parse
 def retrace(node, chart, depth):
     
-    global stop_phrases
-    
+    # leaf node
     if node[1] is None:
         return ' (' + node[0] + " '" + node[2] + "')"
     
-    output = ' (' + node[0]
+    # index of left and right nodes within chart cell
     left_index = find_node(chart, node[1][0], node[1][1], node[1][2])
     right_index = find_node(chart, node[2][0], node[2][1], node[2][2])
-    output += retrace(chart[node[1][0]][node[1][1]][left_index], chart, depth + 1)
-    output += retrace(chart[node[2][0]][node[2][1]][right_index], chart, depth + 1)
+
+    output = ' (' + node[0]
+    
+    # recurse on left node
+    output += retrace(chart[node[1][0]][node[1][1]][left_index], \
+        chart, depth + 1)
+    
+    # recurse on right node
+    output += retrace(chart[node[2][0]][node[2][1]][right_index], \
+        chart, depth + 1)
+        
     output += ')'
     
     return output
-    
+
+# Returns the index of the node bearing
+# name at cell [j, i] in the chart
 def find_node(chart, j, i, name):
     nodes = chart[j][i]
     i = 0
@@ -155,7 +175,7 @@ def find_node(chart, j, i, name):
             return i
         i += 1
 
-# Returns parses in string representation
+# Returns parses as a string
 def print_parses(parses):
     output = ''
     
@@ -166,8 +186,8 @@ def print_parses(parses):
     
     return output
 
-# Returns a string representation of
-# a given tree
+# Returns indented tree representation
+# of given parse
 def print_tree(parse):
     
     string = parse[0]
@@ -189,8 +209,8 @@ def print_tree(parse):
                 
     return string
     
-# Returns number of close parentheses attached
-# to a token
+# Returns number of close parentheses 
+# attached to a token
 def close_paren(string):
     num = 0
     index = -1
@@ -201,32 +221,29 @@ def close_paren(string):
 
     return num
 
-get_grammar(sys.argv[1])
-sentences = get_sentences(sys.argv[2])
+if __name__ == '__main__':
+    
+    get_grammar(sys.argv[1])
+    sentences = get_sentences(sys.argv[2])
+    
+    total = 0
+    sentence_num = 1
+    for sentence in sentences:
+        name = 0
+        chart = parse(sentence)
+                    
+        if chart[len(sentence)][0] is not None:
+            parses = backtrack(chart)
+            total += len(parses)
+            output += print_parses(parses)
+            output += str(sentence_num) + '\n'
+            output += '-' * 40 + '\n\n'
+        sentence_num += 1
+    
 
-sentence_num = 1
-for sentence in sentences:
-    chart = parse(sentence)
-                
-    if chart[len(sentence)][0] is not None:
-        parses = backtrack(chart)
-        output += print_parses(parses)
-        output += str(sentence_num) + '\n'
-        output += '-' * 40 + '\n\n'
-    sentence_num += 1
-
-print output
+    print output
     
 
 
 
 
-
-
-
-
-
-
-
-
-    
