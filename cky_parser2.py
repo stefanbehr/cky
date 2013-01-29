@@ -36,7 +36,7 @@ def get_grammar(filename):
                         rule_map[rhs[0]] = {rhs[1]:[lhs]}
                     elif rhs[1] not in rule_map[rhs[0]]:
                         rule_map[rhs[0]][rhs[1]] = [lhs]
-                    else:
+                    elif lhs not in rule_map[rhs[0]][rhs[1]]:
                         rule_map[rhs[0]][rhs[1]].append(lhs)
                         
                 # preterminals
@@ -88,6 +88,7 @@ def parse(sentence):
                         for C in Cs:
                             if B[0] in rule_map:
                                 if C[0] in rule_map[B[0]]:
+                                    nonterms = rule_map[B[0]][C[0]]
                                     nonterms = give_names(rule_map[B[0]][C[0]],\
                                         [k, i, B[3]], [j, k, C[3]])
                                     terms += nonterms
@@ -203,9 +204,13 @@ def close_paren(string):
 get_grammar(sys.argv[1])
 sentences = get_sentences(sys.argv[2])
 
+print rule_map['Nom']['PP']
+print
 sentence_num = 1
 for sentence in sentences:
     chart = parse(sentence)
+
+                
     if chart[len(sentence)][0] is not None:
         parses = backtrack(chart)
         output += print_parses(parses)
