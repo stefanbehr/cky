@@ -120,15 +120,26 @@ with open(sys.argv[1]) as f:
                     while len(rule) > 3:
                         rule = replace_long(rule)
                 
+                add_rule(rule)
+                
                 if not skip:
-                    add_rule(rule)              # store final rule
                     output += stringify(rule)   # output final rule
 
-# convert unit productions         
-for rule in reserves:
+
+# convert unit productions 
+while len(reserves) > 0:
+    rule = reserves.pop()
     if rule[1] in rule_map:
         for item in rule_map[rule[1]]:
-            output += stringify([rule[0]] + item)
+            new_rule = [rule[0]] + item
+            #print new_rule
+            if len(new_rule) > 2 or new_rule[1][0] == "'":
+                print new_rule
+                output += stringify(new_rule)
+            else:
+                reserves.append(new_rule)
+            add_rule(new_rule)
+        print
 
 with open(sys.argv[2], 'w') as f:
     f.write(output)
