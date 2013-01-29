@@ -158,7 +158,6 @@ def find_node(chart, j, i, name):
 
 get_grammar(sys.argv[1])
 sentences = get_sentences(sys.argv[2])
-print sentences
 
 sent_num = 1
 for sentence in sentences:
