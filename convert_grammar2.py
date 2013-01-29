@@ -80,7 +80,7 @@ def replace_long(rule):
     
     new_node = 'X' + str(i)
     i += 1
-    output += stringify([new_node] + rule[:2])
+    output += stringify([new_node] + rule[1:3])
     rule = [rule[0]] + [new_node] + rule[3:]
     
     return rule
