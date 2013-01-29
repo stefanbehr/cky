@@ -221,12 +221,17 @@ def close_paren(string):
 
     return num
 
-if __name__ == '__main__':
+# Reads in files, parses sentences and
+# prints bracketed labeled tree structurs
+# to console
+def main():
+    
+    global name
+    global output
     
     get_grammar(sys.argv[1])
     sentences = get_sentences(sys.argv[2])
     
-    total = 0
     sentence_num = 1
     for sentence in sentences:
         name = 0
@@ -234,11 +239,12 @@ if __name__ == '__main__':
                     
         if chart[len(sentence)][0] is not None:
             parses = backtrack(chart)
-            total += len(parses)
             output += print_parses(parses)
             output += str(sentence_num) + '\n'
             output += '-' * 40 + '\n\n'
         sentence_num += 1
     
-    print output
+    sys.stdout.write(output)
+    
+main()
     

@@ -13,12 +13,10 @@ lines are eliminated.
 """
 
 import sys
-import re
 
-output = ''
 i = 1               # tracks names of new rules
-reserves = []  # reserved unit productions
 rule_map = {}       # stores rules
+output = ''         # stores output
 
 # Returns a list of terminals and their
 # indices in the given rule
@@ -57,7 +55,7 @@ def add_rule(rule):
 # rule with new nonterminals. Adds
 # new rules to the output, returns
 # altered rule
-def replace_terminals(rule):
+def replace_terminals(rule, terminals, indices):
     
     global output
     global i
@@ -81,52 +79,74 @@ def replace_long(rule):
     
     new_node = 'X' + str(i)
     i += 1
-    output += stringify([new_node] + rule[:2])
+    output += stringify([new_node] + rule[1:3])
     rule = [rule[0]] + [new_node] + rule[3:]
     
     return rule
 
-
-with open(sys.argv[1]) as f:
-    while True:
-        line = f.readline()
-        if line == '':
-            break
-        line = line.strip()
-        
-        # do not process commented or empty lines
-        if line != '' and line[0] != '#':
-            rule = re.sub(r'->', r' ', line).split()
-            skip = False
+# Reads in CFG file, converts to Chomsky
+# Normal Form and outputs to file
+def main():
+    
+    global output
+    
+    reserves = []
+    
+    with open(sys.argv[1]) as f:
+        while True:
+            line = f.readline()
+            if line == '':
+                break
+            line = line.strip()
             
-            # reserve unit productions for the end
-            if len(rule) == 2 and rule[1][0] != "'":
-                reserves.append(rule)
-                skip = True
-            
-            # not a terminal
-            elif len(rule) > 2:
+            # do not process commented or empty lines
+            if line != '' and line[0] != '#':
+                line = line.split('->')
+                lhs = line[0].strip()
+                rhs = line[1:][0].strip().split('|')
                 
-                # find hybrid rules
-                terminals, indices = find_terminals(rule)
-                if len(terminals) > 0:
-                    rule = replace_terminals(rule)
+                for item in rhs:
+                    rule = [lhs] + item.split()
+                    skip = False
                     
-                # convert long productions
-                while len(rule) > 3:
-                    rule = replace_long(rule)
-            
-            if not skip:
-                add_rule(rule)              # store final rule
-                output += stringify(rule)   # output final rule
+                    # reserve unit productions for the end
+                    if len(rule) == 2 and rule[1][0] != "'":
+                        reserves.append(rule)
+                        skip = True
+                    
+                    # not a terminal
+                    elif len(rule) > 2:
+                        
+                        # find hybrid rules
+                        terminals, indices = find_terminals(rule)
+                        if len(terminals) > 0:
+                            rule = replace_terminals(rule, terminals, indices)
+                            
+                        # convert long productions
+                        while len(rule) > 3:
+                            rule = replace_long(rule)
+                    
+                    add_rule(rule)
+                    
+                    if not skip:
+                        output += stringify(rule)   # output final rule
+    
+    
+    # convert unit productions 
+    while len(reserves) > 0:
+        rule = reserves.pop()
+        if rule[1] in rule_map:
+            for item in rule_map[rule[1]]:
+                new_rule = [rule[0]] + item
+                #print new_rule
+                if len(new_rule) > 2 or new_rule[1][0] == "'":
+                    output += stringify(new_rule)
+                else:
+                    reserves.append(new_rule)
+                add_rule(new_rule)
+    
+    with open(sys.argv[2], 'w') as f:
+        f.write(output)
 
-# convert unit productions         
-for rule in reserves:
-    for item in rule_map[rule[1]]:
-        output += stringify([rule[1]] + item)
-
-with open(sys.argv[2], 'w') as f:
-    f.write(output)
-
-
+main()
             
