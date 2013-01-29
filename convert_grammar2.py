@@ -124,14 +124,6 @@ with open(sys.argv[1]) as f:
                     add_rule(rule)              # store final rule
                     output += stringify(rule)   # output final rule
 
-#for item in rule_map:
-    #print item
-    #print rule_map[item]
-    #print
-print rule_map
-    
-print
-print reserves
 # convert unit productions         
 for rule in reserves:
     if rule[1] in rule_map:
