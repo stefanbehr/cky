@@ -12,9 +12,6 @@ rule_map = {}
 word_map = {}
 output = ''
 name = 0
-stop_phrases = ['(TOP', '(S', '(SQ', '(FRAG', '(NP', '(VP',\
-                '(PP', '(ADJP', '(ADVP', '(PUNC']
-
 
 def get_grammar(filename):
     
@@ -166,7 +163,6 @@ print sentences
 sent_num = 1
 for sentence in sentences:
     chart = parse(sentence)
-    print chart
     if chart[len(sentence)][0] is not None:
         output += backtrack(chart)
     output += str(sent_num) + '\n'
