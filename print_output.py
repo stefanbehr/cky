@@ -1,33 +1,17 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jan 26 18:24:20 2013
-
-@author: kathryn
-"""
-
-stop_phrases = ['(TOP', '(S', '(SQ', '(FRAG', '(NP', '(VP', '(PP', '(ADJP', '(ADVP',\
-        '(PUNC']
-
-# Returns parses in string representation
-def print_parses(sentences):
+# Returns parses as a string
+def print_parses(parses):
     output = ''
-    sentence_num = 1
     
-    for sentence in sentences:
-        for parse in sentence:
-            parse = parse.split()
-            output += print_tree(parse)
-            output += '\n\n'
-        output += str(sentence_num) + '\n' + '-' * 40 + '\n'
-        sentence_num += 1
+    for parse in parses:
+        parse = parse.split()
+        output += print_tree(parse)
+        output += '\n\n'
     
     return output
 
-# Returns a string representation of
-# a given tree
+# Returns indented tree representation
+# of given parse
 def print_tree(parse):
-    
-    global stop_phrases
     
     string = parse[0]
     open_paren = 1
@@ -35,13 +19,10 @@ def print_tree(parse):
     index = 1
     
     while open_paren > 0 and index < len(parse):
-        if parse[index] in stop_phrases:
+        if not re.match(r"'", parse[index]):
             string += '\n' + '  ' * depth + parse[index]
             open_paren += 1
             depth = open_paren
-        elif parse[index][0] == '(':
-            string += ' ' + parse[index]
-            open_paren += 1
         else:
             string += ' ' + parse[index]
             open_paren -= close_paren(parse[index])
@@ -51,8 +32,8 @@ def print_tree(parse):
                 
     return string
     
-# Returns number of close parentheses attached
-# to a token
+# Returns number of close parentheses 
+# attached to a token
 def close_paren(string):
     num = 0
     index = -1
@@ -62,5 +43,3 @@ def close_paren(string):
         index -= 1
 
     return num
-
-
