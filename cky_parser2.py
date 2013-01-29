@@ -24,13 +24,13 @@ def get_grammar(filename):
             if line == '':
                 break
             line = line.strip()
-            if line != '' and line[0] != '#':
+            if line != '' and not re.match(r'#', line):
                 line = line.split('->')
                 lhs = line[0].strip()
                 rhs = line[1].strip()
                 
                 # nonterminals
-                if rhs[0] != "'":
+                if not re.match(r"'", rhs):
                     rhs = rhs.split()
                     if rhs[0] not in rule_map:
                         rule_map[rhs[0]] = {rhs[1]:[lhs]}
@@ -176,7 +176,7 @@ def print_tree(parse):
     index = 1
     
     while open_paren > 0 and index < len(parse):
-        if parse[index][0] != "'":
+        if not re.match(r"'", parse[index]):
             string += '\n' + '  ' * depth + parse[index]
             open_paren += 1
             depth = open_paren
@@ -204,12 +204,9 @@ def close_paren(string):
 get_grammar(sys.argv[1])
 sentences = get_sentences(sys.argv[2])
 
-print rule_map['Nom']['PP']
-print
 sentence_num = 1
 for sentence in sentences:
     chart = parse(sentence)
-
                 
     if chart[len(sentence)][0] is not None:
         parses = backtrack(chart)
