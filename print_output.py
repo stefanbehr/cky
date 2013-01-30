@@ -1,3 +1,5 @@
+import re
+
 # Returns parses as a string
 def print_parses(parses):
     output = ''
@@ -24,7 +26,7 @@ def print_tree(parse):
             open_paren += 1
             depth = open_paren
         else:
-            string += ' ' + parse[index]
+            string += ' ' + re.sub("'", "", parse[index])
             open_paren -= close_paren(parse[index])
             depth = open_paren
             

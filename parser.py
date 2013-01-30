@@ -32,8 +32,6 @@ class CNFGrammar:
         PRODUCTION = re.compile(production)
         QUOTED = re.compile(quoted)
 
-        quotes = "'\""
-
         for line in grammar_lines:
             prod_match = PRODUCTION.match(line)
             if prod_match:
@@ -43,7 +41,6 @@ class CNFGrammar:
                 quot_match = QUOTED.match(rhs)
                 if quot_match:
                     prod_type = "lexical"
-                    rhs = rhs.strip(quotes)
                 else:
                     prod_type = "phrasal"
                     rhs = rhs.split()
