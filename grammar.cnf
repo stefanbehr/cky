@@ -1,3 +1,64 @@
+TOP -> X11 PUNC
+TOP -> X8 PUNC
+TOP -> X10 PUNC
+TOP -> NP VP
+TOP -> X1 VP
+TOP -> X2 PUNC
+TOP -> X4 PUNC
+TOP -> X6 PUNC
+TOP -> NP NP
+TOP -> VBP PP
+TOP -> VBZ NP
+TOP -> VBZ ADJP
+TOP -> VBZ VP
+TOP -> VB NP
+TOP -> VBN PP
+TOP -> X12 PP
+TOP -> VBP ADJP
+TOP -> VBP S
+TOP -> VBD SBAR
+TOP -> VBG NP
+TOP -> MD VP
+TOP -> VB NP
+TOP -> X13 ADVP
+TOP -> VBD NP
+TOP -> TO VP
+TOP -> 'Do'
+TOP -> 'grow'
+TOP -> 'are'
+TOP -> 'consider'
+TOP -> 'Do'
+TOP -> 'grow'
+TOP -> 'are'
+TOP -> 'consider'
+TOP -> 'Do'
+TOP -> 'grow'
+TOP -> 'are'
+TOP -> 'consider'
+TOP -> VBP PP
+TOP -> VBZ NP
+TOP -> VBZ ADJP
+TOP -> VBZ VP
+TOP -> VB NP
+TOP -> VBN PP
+TOP -> X12 PP
+TOP -> VBP ADJP
+TOP -> VBP S
+TOP -> VBD SBAR
+TOP -> VBG NP
+TOP -> MD VP
+TOP -> VB NP
+TOP -> X13 ADVP
+TOP -> VBD NP
+TOP -> TO VP
+TOP -> 'Do'
+TOP -> 'grow'
+TOP -> 'are'
+TOP -> 'consider'
+TOP -> 'Do'
+TOP -> 'grow'
+TOP -> 'are'
+TOP -> 'consider'
 S -> NP VP
 X1 -> NP ADVP
 S -> X1 VP
@@ -309,64 +370,3 @@ S -> 'Do'
 S -> 'grow'
 S -> 'are'
 S -> 'consider'
-TOP -> X11 PUNC
-TOP -> X8 PUNC
-TOP -> X10 PUNC
-TOP -> NP VP
-TOP -> X1 VP
-TOP -> X2 PUNC
-TOP -> X4 PUNC
-TOP -> X6 PUNC
-TOP -> NP NP
-TOP -> VBP PP
-TOP -> VBZ NP
-TOP -> VBZ ADJP
-TOP -> VBZ VP
-TOP -> VB NP
-TOP -> VBN PP
-TOP -> X12 PP
-TOP -> VBP ADJP
-TOP -> VBP S
-TOP -> VBD SBAR
-TOP -> VBG NP
-TOP -> MD VP
-TOP -> VB NP
-TOP -> X13 ADVP
-TOP -> VBD NP
-TOP -> TO VP
-TOP -> 'Do'
-TOP -> 'grow'
-TOP -> 'are'
-TOP -> 'consider'
-TOP -> 'Do'
-TOP -> 'grow'
-TOP -> 'are'
-TOP -> 'consider'
-TOP -> 'Do'
-TOP -> 'grow'
-TOP -> 'are'
-TOP -> 'consider'
-TOP -> VBP PP
-TOP -> VBZ NP
-TOP -> VBZ ADJP
-TOP -> VBZ VP
-TOP -> VB NP
-TOP -> VBN PP
-TOP -> X12 PP
-TOP -> VBP ADJP
-TOP -> VBP S
-TOP -> VBD SBAR
-TOP -> VBG NP
-TOP -> MD VP
-TOP -> VB NP
-TOP -> X13 ADVP
-TOP -> VBD NP
-TOP -> TO VP
-TOP -> 'Do'
-TOP -> 'grow'
-TOP -> 'are'
-TOP -> 'consider'
-TOP -> 'Do'
-TOP -> 'grow'
-TOP -> 'are'
-TOP -> 'consider'

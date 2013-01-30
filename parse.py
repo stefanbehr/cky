@@ -26,16 +26,12 @@ if __name__ == "__main__":
 	sentences = [nltk.wordpunct_tokenize(sentence) for sentence in sentences]
 
 	parser = CKYParser(grammar_path)
-	parse_count = 0
 
 	# iterate over tokenized sentences, parse each
 	# and output parses
 	for sentence in sentences:
 		sentence = ["'{0}'".format(token) for token in sentence]	# make sure tokens are single-quoted
 		parses = parser.get_parses(sentence)
-		parse_count += len(parses)
-		print print_parses(parses)
+		sys.stdout.write(print_parses(parses))
 		print len(parses)
 		print 40 * "-"
-
-	print "{0} total parses".format(parse_count)
