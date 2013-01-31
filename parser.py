@@ -7,7 +7,23 @@ LING 571
 Project 1
 """
 
-import re
+import re, time
+
+# timing decorator
+def repetitions(n):
+    def timer(f):
+        def timed(*args, **kwargs):
+            start = time.time()
+            for i in xrange(n):
+                result = f(*args, **kwargs)
+            stop = time.time()
+            timed.delta = stop - start
+            return result
+        return timed
+    timer.n = n
+    return timer
+
+timer = repetitions(1)
 
 class CNFGrammar:
     """
@@ -102,6 +118,7 @@ class CKYParser:
         """
         self.grammar = CNFGrammar(path)
 
+    @timer
     def parse(self, sentence):
         """
         Given an input sentence in the form of a list of tokens, 
