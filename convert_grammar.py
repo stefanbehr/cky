@@ -199,6 +199,7 @@ def main():
     output += results[1]
     
     with open(sys.argv[2], 'w') as f:
+        f.write('#Stefan Behr\n#Kathryn Nichols\n#LING 571\n#Project 1\n\n')
         f.write(tops)
         f.write(output)
 
