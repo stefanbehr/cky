@@ -30,6 +30,12 @@ if __name__ == "__main__":
 
 	parser = CKYParser(grammar_path)
 
+        delimiter = 40 * "-"
+        metadata = ["Kathryn Nichols", "Stefan Behr", "LING 571", "Project 1"]
+
+        print "\n".join("# {0}".format(datum) for datum in metadata)
+        print delimiter
+
 	# iterate over tokenized sentences, parse each
 	# and output parses
 	for sentence in sentences:
@@ -37,4 +43,4 @@ if __name__ == "__main__":
 		parses = parser.get_parses(sentence)
 		sys.stdout.write(print_parses(parses))
 		print len(parses)
-		print 40 * "-"
+                print delimiter

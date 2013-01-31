@@ -24,7 +24,7 @@ Files submitted
 * project1.sh: Usage: "./project1.sh <non-CNF grammar> <path for converted grammar> <sentence file for parsing>". Ties together our Python scripts. Uses convert_grammar.py and parse.py to convert a given grammar, parse the given sentences using the converted grammar, and print output to stdout.
 * sentences.txt: Example sentences given on project 1 webpage.
 * README: This file.
-* project1.analysis.pdf: PDF of our analysis written in LaTeX.
+* project1.analysis: Analysis and thoughts on parser results and performance.
 
 Minor note on names in files
 ============================
