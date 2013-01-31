@@ -9,7 +9,7 @@ Project 1
 
 if __name__ == "__main__":
 	import nltk, sys
-	from parser import CKYParser, timer
+	from parser import CKYParser
 	from print_output import print_parses
 
 	try:
@@ -36,7 +36,5 @@ if __name__ == "__main__":
 		sentence = ["'{0}'".format(token) for token in sentence]	# make sure tokens are single-quoted
 		parses = parser.get_parses(sentence)
 		sys.stdout.write(print_parses(parses))
-		print " ".join([token.strip("'\"") for token in sentence])
-		print "{0:f} seconds to parse sentence {1} time(s)".format(parser.parse.delta, timer.n)
 		print len(parses)
 		print 40 * "-"

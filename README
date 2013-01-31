@@ -1,0 +1,37 @@
+Stefan Behr
+Kathryn Nichols
+LING 571
+Project 1
+
+Running our code
+================
+Simply execute
+
+    $ condor_submit project1.cmd
+
+on Patas or Dryas in order to convert grammar.cfg into CNF, and parse the sentences in sentences.txt in the same directory. Our parser output will be written to project1.out. Please note, running our code will modify the existent file project1.out, unless the Condor command file is modified. Changes to the Condor command file can be made as detailed below, if a different grammar or set of test sentences is desired.
+
+Files submitted
+===============
+* convert_grammar.py: Usage: "python2.7 convert_grammar.py <file with CFG for conversion> <output path>. Converts a CFG to CNF.
+* grammar.cfg: The the non-CNF CFG we were provided for project 1.
+* grammar.cnf: The recorded result of converting grammar.cfg into CNF using convert_grammar.py.
+* parse.py: Usage: "python2.7 parse.py <path to file of input sentences> <path to CNF grammar file>. Parses all sentences in a file using the given CNF grammar and prints output to stdout.
+* parser.py: Module containing implementation of CKY parser and required dependencies (grammar loader, tree nodes, etc.). Imported by parse.py.
+* print_output.py: Module containing parse tree formatting functions. Imported by parse.py.
+* project1.cmd: Condor command file for executing project1.sh script. Gives the arguments "grammar.cfg grammar.cnf sentences.txt" to project1.sh; can be edited to convert/use different grammars and to parse different sentences.
+* project1.out: Parser output for each sentence, showing parse count after each sentence's series of parses.
+* project1.sh: Usage: "./project1.sh <non-CNF grammar> <path for converted grammar> <sentence file for parsing>". Ties together our Python scripts. Uses convert_grammar.py and parse.py to convert a given grammar, parse the given sentences using the converted grammar, and print output to stdout.
+* sentences.txt: Example sentences given on project 1 webpage.
+* README: This file.
+* project1.analysis.pdf: PDF of our analysis written in LaTeX.
+
+Minor note on names in files
+============================
+grammar.cnf contains our names in some comments at the top of the file. However, executing
+
+    $ python2.7 convert_grammar.py grammar.cfg grammar.cnf
+
+will overwrite the existing grammar.cnf, which will delete the names from the top of the file, since they were manually entered before submission. Just a heads up in case it's a concern. Regardless, a correct grammar conversion to CNF will be produced. 
+
+Additionally, we do not generate our names as the first few lines of project1.out when we generate parser output. We felt that since the output is obviously generated from our own code, adding our names to the resulting output file is unnecessary.

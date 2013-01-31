@@ -1,0 +1,8890 @@
+(TOP
+  (X2
+    (NP Work)
+    (VP
+      (VBZ accelerates)
+      (NP
+        (Det the)
+        (Nom
+          (Nom growth)
+          (PP
+            (Prep of)
+            (NP muscles))))))
+  (PUNC .))
+
+1
+----------------------------------------
+(TOP
+  (X2
+    (NP Muscles)
+    (VP
+      (VBP grow)
+      (PP
+        (Prep in)
+        (NP
+          (Nom response)
+          (PP
+            (Prep to)
+            (NP work))))))
+  (PUNC .))
+
+1
+----------------------------------------
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (ADJP average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (NN adult)
+              (NN male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Adj average)
+            (Nom
+              (Nom adult)
+              (NP male))))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (ADJP average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (ADJP skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (ADJP average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (NN adult)
+            (NN female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Adj average)
+          (Nom
+            (Nom adult)
+            (NP female))))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (ADJP average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (ADJP skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det An)
+          (Nom
+            (Nom
+              (Adj average)
+              (Nom adult))
+            (NP male)))
+        (VP
+          (VBZ is)
+          (VP
+            (X12
+              (VBN made)
+              (PRT up))
+            (PP
+              (Prep of)
+              (NP
+                (Quant
+                  (Card 45)
+                  (NN %))
+                (Nom
+                  (Adj skeletal)
+                  (Nom muscle)))))))
+      (Conj and))
+    (S
+      (NP
+        (Det an)
+        (Nom
+          (Nom
+            (Adj average)
+            (Nom adult))
+          (NP female)))
+      (VP
+        (VBZ is)
+        (VP
+          (X12
+            (VBN made)
+            (PRT up))
+          (PP
+            (Prep of)
+            (NP
+              (Quant
+                (Card 35)
+                (NN %))
+              (Nom
+                (Adj skeletal)
+                (Nom muscle))))))))
+  (PUNC .))
+
+144
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (ADJP pyramidal)
+        (Nom
+          (NN motor)
+          (NN system))))
+    (VP
+      (VBZ controls)
+      (NP
+        (ADJP voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (ADJP pyramidal)
+        (Nom
+          (NN motor)
+          (NN system))))
+    (VP
+      (VBZ controls)
+      (NP
+        (Adj voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (ADJP pyramidal)
+        (Nom
+          (Nom motor)
+          (NP system))))
+    (VP
+      (VBZ controls)
+      (NP
+        (ADJP voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (ADJP pyramidal)
+        (Nom
+          (Nom motor)
+          (NP system))))
+    (VP
+      (VBZ controls)
+      (NP
+        (Adj voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Adj pyramidal)
+        (Nom
+          (NN motor)
+          (NN system))))
+    (VP
+      (VBZ controls)
+      (NP
+        (ADJP voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Adj pyramidal)
+        (Nom
+          (NN motor)
+          (NN system))))
+    (VP
+      (VBZ controls)
+      (NP
+        (Adj voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Adj pyramidal)
+        (Nom
+          (Nom motor)
+          (NP system))))
+    (VP
+      (VBZ controls)
+      (NP
+        (ADJP voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Adj pyramidal)
+        (Nom
+          (Nom motor)
+          (NP system))))
+    (VP
+      (VBZ controls)
+      (NP
+        (Adj voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Nom
+          (ADJP pyramidal)
+          (Nom motor))
+        (NP system)))
+    (VP
+      (VBZ controls)
+      (NP
+        (ADJP voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Nom
+          (ADJP pyramidal)
+          (Nom motor))
+        (NP system)))
+    (VP
+      (VBZ controls)
+      (NP
+        (Adj voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Nom
+          (Adj pyramidal)
+          (Nom motor))
+        (NP system)))
+    (VP
+      (VBZ controls)
+      (NP
+        (ADJP voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Nom
+          (Adj pyramidal)
+          (Nom motor))
+        (NP system)))
+    (VP
+      (VBZ controls)
+      (NP
+        (Adj voluntary)
+        (Nom movements))))
+  (PUNC .))
+
+12
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (ADJP Old)
+      (Nom people))
+    (VP
+      (VBP are)
+      (PP
+        (Prep at)
+        (NP
+          (Nom risk)
+          (PP
+            (Prep for)
+            (NP arthritis))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Adj Old)
+      (Nom people))
+    (VP
+      (VBP are)
+      (PP
+        (Prep at)
+        (NP
+          (Nom risk)
+          (PP
+            (Prep for)
+            (NP arthritis))))))
+  (PUNC .))
+
+2
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (Nom Dr)
+      (NP
+        (Nom David)
+        (NP Cook)))
+    (VP
+      (VBZ is)
+      (NP
+        (Det a)
+        (Nom
+          (Nom researcher)
+          (PP
+            (Prep of)
+            (NP
+              (Det the)
+              (Nom
+                (NN motor)
+                (NN system))))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Nom Dr)
+      (NP
+        (Nom David)
+        (NP Cook)))
+    (VP
+      (VBZ is)
+      (NP
+        (Det a)
+        (Nom
+          (Nom researcher)
+          (PP
+            (Prep of)
+            (NP
+              (Det the)
+              (Nom
+                (Nom motor)
+                (NP system))))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Nom Dr)
+      (NP
+        (Nom David)
+        (NP Cook)))
+    (VP
+      (VBZ is)
+      (NP
+        (Det a)
+        (Nom
+          (Nom
+            (Nom researcher)
+            (PP
+              (Prep of)
+              (NP
+                (Det the)
+                (Nom motor))))
+          (NP system)))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Nom
+        (Nom Dr)
+        (NP David))
+      (NP Cook))
+    (VP
+      (VBZ is)
+      (NP
+        (Det a)
+        (Nom
+          (Nom researcher)
+          (PP
+            (Prep of)
+            (NP
+              (Det the)
+              (Nom
+                (NN motor)
+                (NN system))))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Nom
+        (Nom Dr)
+        (NP David))
+      (NP Cook))
+    (VP
+      (VBZ is)
+      (NP
+        (Det a)
+        (Nom
+          (Nom researcher)
+          (PP
+            (Prep of)
+            (NP
+              (Det the)
+              (Nom
+                (Nom motor)
+                (NP system))))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Nom
+        (Nom Dr)
+        (NP David))
+      (NP Cook))
+    (VP
+      (VBZ is)
+      (NP
+        (Det a)
+        (Nom
+          (Nom
+            (Nom researcher)
+            (PP
+              (Prep of)
+              (NP
+                (Det the)
+                (Nom motor))))
+          (NP system)))))
+  (PUNC .))
+
+6
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (NN muscle)
+        (NN action)))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN determined)
+        (PP
+          (Prep by)
+          (NP
+            (Det the)
+            (Nom
+              (X15
+                (Nom origin)
+                (Conj and))
+              (Nom
+                (Nom insertion)
+                (NP locations))))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (NN muscle)
+        (NN action)))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN determined)
+        (PP
+          (Prep by)
+          (NP
+            (Det the)
+            (Nom
+              (Nom
+                (X15
+                  (Nom origin)
+                  (Conj and))
+                (Nom insertion))
+              (NP locations)))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Nom muscle)
+        (NP action)))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN determined)
+        (PP
+          (Prep by)
+          (NP
+            (Det the)
+            (Nom
+              (X15
+                (Nom origin)
+                (Conj and))
+              (Nom
+                (Nom insertion)
+                (NP locations))))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Nom muscle)
+        (NP action)))
+    (VP
+      (VBZ is)
+      (VP
+        (VBN determined)
+        (PP
+          (Prep by)
+          (NP
+            (Det the)
+            (Nom
+              (Nom
+                (X15
+                  (Nom origin)
+                  (Conj and))
+                (Nom insertion))
+              (NP locations)))))))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det The)
+          (Nom
+            (NN muscle)
+            (NN action)))
+        (VP
+          (VBZ is)
+          (VP
+            (VBN determined)
+            (PP
+              (Prep by)
+              (NP
+                (Det the)
+                (Nom origin))))))
+      (Conj and))
+    (S
+      (NP insertion)
+      (NP locations)))
+  (PUNC .))
+
+(TOP
+  (X4
+    (X3
+      (S
+        (NP
+          (Det The)
+          (Nom
+            (Nom muscle)
+            (NP action)))
+        (VP
+          (VBZ is)
+          (VP
+            (VBN determined)
+            (PP
+              (Prep by)
+              (NP
+                (Det the)
+                (Nom origin))))))
+      (Conj and))
+    (S
+      (NP insertion)
+      (NP locations)))
+  (PUNC .))
+
+6
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (NN motor)
+        (NN system)))
+    (VP
+      (VBZ is)
+      (ADJP
+        (Adj responsible)
+        (PP
+          (Prep for)
+          (NP
+            (ADJP physical)
+            (Nom movement))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (NN motor)
+        (NN system)))
+    (VP
+      (VBZ is)
+      (ADJP
+        (Adj responsible)
+        (PP
+          (Prep for)
+          (NP
+            (Adj physical)
+            (Nom movement))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Nom motor)
+        (NP system)))
+    (VP
+      (VBZ is)
+      (ADJP
+        (Adj responsible)
+        (PP
+          (Prep for)
+          (NP
+            (ADJP physical)
+            (Nom movement))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Nom motor)
+        (NP system)))
+    (VP
+      (VBZ is)
+      (ADJP
+        (Adj responsible)
+        (PP
+          (Prep for)
+          (NP
+            (Adj physical)
+            (Nom movement))))))
+  (PUNC .))
+
+4
+----------------------------------------
+(TOP
+  (X10
+    (X9
+      (VBZ Is)
+      (NP
+        (Det the)
+        (Nom muscle)))
+    (ADJP tired))
+  (PUNC ?))
+
+1
+----------------------------------------
+(TOP
+  (VBP Do)
+  (S
+    (X2
+      (NP you)
+      (VP
+        (VB have)
+        (NP
+          (Nom pain)
+          (PP
+            (Prep in)
+            (NP
+              (Det the)
+              (Nom
+                (Nom muscles)
+                (PP
+                  (Prep on)
+                  (NP
+                    (Det the)
+                    (Nom
+                      (Nom side)
+                      (PP
+                        (Prep of)
+                        (NP
+                          (Det the)
+                          (Nom face))))))))))))
+    (PUNC ?)))
+
+(TOP
+  (VBP Do)
+  (S
+    (X2
+      (NP you)
+      (VP
+        (VB have)
+        (NP
+          (Nom pain)
+          (PP
+            (Prep in)
+            (NP
+              (Det the)
+              (Nom
+                (Nom
+                  (Nom muscles)
+                  (PP
+                    (Prep on)
+                    (NP
+                      (Det the)
+                      (Nom side))))
+                (PP
+                  (Prep of)
+                  (NP
+                    (Det the)
+                    (Nom face)))))))))
+    (PUNC ?)))
+
+(TOP
+  (VBP Do)
+  (S
+    (X2
+      (NP you)
+      (VP
+        (VB have)
+        (NP
+          (Nom
+            (Nom pain)
+            (PP
+              (Prep in)
+              (NP
+                (Det the)
+                (Nom muscles))))
+          (PP
+            (Prep on)
+            (NP
+              (Det the)
+              (Nom
+                (Nom side)
+                (PP
+                  (Prep of)
+                  (NP
+                    (Det the)
+                    (Nom face)))))))))
+    (PUNC ?)))
+
+(TOP
+  (VBP Do)
+  (S
+    (X2
+      (NP you)
+      (VP
+        (VB have)
+        (NP
+          (Nom
+            (Nom pain)
+            (PP
+              (Prep in)
+              (NP
+                (Det the)
+                (Nom
+                  (Nom muscles)
+                  (PP
+                    (Prep on)
+                    (NP
+                      (Det the)
+                      (Nom side)))))))
+          (PP
+            (Prep of)
+            (NP
+              (Det the)
+              (Nom face))))))
+    (PUNC ?)))
+
+(TOP
+  (VBP Do)
+  (S
+    (X2
+      (NP you)
+      (VP
+        (VB have)
+        (NP
+          (Nom
+            (Nom
+              (Nom pain)
+              (PP
+                (Prep in)
+                (NP
+                  (Det the)
+                  (Nom muscles))))
+            (PP
+              (Prep on)
+              (NP
+                (Det the)
+                (Nom side))))
+          (PP
+            (Prep of)
+            (NP
+              (Det the)
+              (Nom face))))))
+    (PUNC ?)))
+
+(TOP
+  (X8
+    (X7
+      (VBP Do)
+      (NP you))
+    (VP
+      (VB have)
+      (NP
+        (Nom pain)
+        (PP
+          (Prep in)
+          (NP
+            (Det the)
+            (Nom
+              (Nom muscles)
+              (PP
+                (Prep on)
+                (NP
+                  (Det the)
+                  (Nom
+                    (Nom side)
+                    (PP
+                      (Prep of)
+                      (NP
+                        (Det the)
+                        (Nom face))))))))))))
+  (PUNC ?))
+
+(TOP
+  (X8
+    (X7
+      (VBP Do)
+      (NP you))
+    (VP
+      (VB have)
+      (NP
+        (Nom pain)
+        (PP
+          (Prep in)
+          (NP
+            (Det the)
+            (Nom
+              (Nom
+                (Nom muscles)
+                (PP
+                  (Prep on)
+                  (NP
+                    (Det the)
+                    (Nom side))))
+              (PP
+                (Prep of)
+                (NP
+                  (Det the)
+                  (Nom face)))))))))
+  (PUNC ?))
+
+(TOP
+  (X8
+    (X7
+      (VBP Do)
+      (NP you))
+    (VP
+      (VB have)
+      (NP
+        (Nom
+          (Nom pain)
+          (PP
+            (Prep in)
+            (NP
+              (Det the)
+              (Nom muscles))))
+        (PP
+          (Prep on)
+          (NP
+            (Det the)
+            (Nom
+              (Nom side)
+              (PP
+                (Prep of)
+                (NP
+                  (Det the)
+                  (Nom face)))))))))
+  (PUNC ?))
+
+(TOP
+  (X8
+    (X7
+      (VBP Do)
+      (NP you))
+    (VP
+      (VB have)
+      (NP
+        (Nom
+          (Nom pain)
+          (PP
+            (Prep in)
+            (NP
+              (Det the)
+              (Nom
+                (Nom muscles)
+                (PP
+                  (Prep on)
+                  (NP
+                    (Det the)
+                    (Nom side)))))))
+        (PP
+          (Prep of)
+          (NP
+            (Det the)
+            (Nom face))))))
+  (PUNC ?))
+
+(TOP
+  (X8
+    (X7
+      (VBP Do)
+      (NP you))
+    (VP
+      (VB have)
+      (NP
+        (Nom
+          (Nom
+            (Nom pain)
+            (PP
+              (Prep in)
+              (NP
+                (Det the)
+                (Nom muscles))))
+          (PP
+            (Prep on)
+            (NP
+              (Det the)
+              (Nom side))))
+        (PP
+          (Prep of)
+          (NP
+            (Det the)
+            (Nom face))))))
+  (PUNC ?))
+
+10
+----------------------------------------
+(TOP
+  (X1
+    (NP Scientists)
+    (ADVP finally))
+  (VP
+    (VBD realized)
+    (SBAR
+      (IN that)
+      (S
+        (X2
+          (NP DNA)
+          (VP
+            (VBZ controls)
+            (NP heredity)))
+        (PUNC .)))))
+
+1
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (Det A)
+      (Nom
+        (X14
+          (NN pain)
+          (PP
+            (Prep in)
+            (NP
+              (Det the)
+              (Nom abdomen))))
+        (VP
+          (VBG lasting)
+          (NP
+            (QP
+              (X16
+                (JJR more)
+                (IN than))
+              (Det a))
+            (NN week)))))
+    (VP
+      (MD could)
+      (VP
+        (VB be)
+        (NP appendicitis))))
+  (PUNC .))
+
+1
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom muscle))
+    (VP
+      (X13
+        (VBZ is)
+        (VBG functioning))
+      (ADVP normally)))
+  (PUNC .))
+
+1
+----------------------------------------
+(TOP
+  (X11
+    (Adv Not)
+    (NP
+      (Det that)
+      (Nom one)))
+  (PUNC .))
+
+1
+----------------------------------------
+(TOP
+  (X6
+    (X5
+      (PP
+        (Prep Before)
+        (NP
+          (Det the)
+          (Nom
+            (Nom discovery)
+            (PP
+              (Prep of)
+              (NP DNA)))))
+      (NP heredity))
+    (VP
+      (VBD was)
+      (NP
+        (Det a)
+        (Nom mystery))))
+  (PUNC .))
+
+1
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (Det The)
+      (Nom
+        (Nom discovery)
+        (PP
+          (Prep of)
+          (NP DNA))))
+    (VP
+      (VBD was)
+      (NP
+        (Det a)
+        (Nom
+          (ADJP
+            (Adv very)
+            (Adj important))
+          (Nom milestone)))))
+  (PUNC .))
+
+1
+----------------------------------------
+(TOP
+  (X2
+    (NP There)
+    (VP
+      (VBZ is)
+      (NP
+        (ADJP much)
+        (Nom
+          (Nom research)
+          (PP
+            (Prep on)
+            (NP
+              (Det the)
+              (Nom
+                (Nom growth)
+                (PP
+                  (Prep of)
+                  (NP muscles)))))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP There)
+    (VP
+      (VBZ is)
+      (NP
+        (ADJP much)
+        (Nom
+          (Nom
+            (Nom research)
+            (PP
+              (Prep on)
+              (NP
+                (Det the)
+                (Nom growth))))
+          (PP
+            (Prep of)
+            (NP muscles))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP There)
+    (VP
+      (VBZ is)
+      (NP
+        (Adj much)
+        (Nom
+          (Nom research)
+          (PP
+            (Prep on)
+            (NP
+              (Det the)
+              (Nom
+                (Nom growth)
+                (PP
+                  (Prep of)
+                  (NP muscles)))))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP There)
+    (VP
+      (VBZ is)
+      (NP
+        (Adj much)
+        (Nom
+          (Nom
+            (Nom research)
+            (PP
+              (Prep on)
+              (NP
+                (Det the)
+                (Nom growth))))
+          (PP
+            (Prep of)
+            (NP muscles))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP There)
+    (VP
+      (VBZ is)
+      (NP
+        (Nom
+          (ADJP much)
+          (Nom research))
+        (PP
+          (Prep on)
+          (NP
+            (Det the)
+            (Nom
+              (Nom growth)
+              (PP
+                (Prep of)
+                (NP muscles))))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP There)
+    (VP
+      (VBZ is)
+      (NP
+        (Nom
+          (Adj much)
+          (Nom research))
+        (PP
+          (Prep on)
+          (NP
+            (Det the)
+            (Nom
+              (Nom growth)
+              (PP
+                (Prep of)
+                (NP muscles))))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP There)
+    (VP
+      (VBZ is)
+      (NP
+        (Nom
+          (ADJP much)
+          (Nom
+            (Nom research)
+            (PP
+              (Prep on)
+              (NP
+                (Det the)
+                (Nom growth)))))
+        (PP
+          (Prep of)
+          (NP muscles)))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP There)
+    (VP
+      (VBZ is)
+      (NP
+        (Nom
+          (Adj much)
+          (Nom
+            (Nom research)
+            (PP
+              (Prep on)
+              (NP
+                (Det the)
+                (Nom growth)))))
+        (PP
+          (Prep of)
+          (NP muscles)))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP There)
+    (VP
+      (VBZ is)
+      (NP
+        (Nom
+          (Nom
+            (ADJP much)
+            (Nom research))
+          (PP
+            (Prep on)
+            (NP
+              (Det the)
+              (Nom growth))))
+        (PP
+          (Prep of)
+          (NP muscles)))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP There)
+    (VP
+      (VBZ is)
+      (NP
+        (Nom
+          (Nom
+            (Adj much)
+            (Nom research))
+          (PP
+            (Prep on)
+            (NP
+              (Det the)
+              (Nom growth))))
+        (PP
+          (Prep of)
+          (NP muscles)))))
+  (PUNC .))
+
+10
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (Det Some)
+      (Nom muscles))
+    (VP
+      (VB have)
+      (NP
+        (ADJP many)
+        (Nom
+          (Nom insertion)
+          (NP locations)))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det Some)
+      (Nom muscles))
+    (VP
+      (VB have)
+      (NP
+        (Adj many)
+        (Nom
+          (Nom insertion)
+          (NP locations)))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det Some)
+      (Nom muscles))
+    (VP
+      (VB have)
+      (NP
+        (Nom
+          (ADJP many)
+          (Nom insertion))
+        (NP locations))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det Some)
+      (Nom muscles))
+    (VP
+      (VB have)
+      (NP
+        (Nom
+          (Adj many)
+          (Nom insertion))
+        (NP locations))))
+  (PUNC .))
+
+4
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (Det Few)
+      (Nom
+        (NNS people)
+        (ADJP
+          (Adj privy)
+          (PP
+            (Prep to)
+            (NP
+              (Det the)
+              (Nom research))))))
+    (VP
+      (VBP are)
+      (ADJP
+        (Adj willing)
+        (S
+          (TO to)
+          (VP
+            (VB dispute)
+            (NP it))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Det Few)
+      (Nom
+        (Nom
+          (NNS people)
+          (ADJP privy))
+        (PP
+          (Prep to)
+          (NP
+            (Det the)
+            (Nom research)))))
+    (VP
+      (VBP are)
+      (ADJP
+        (Adj willing)
+        (S
+          (TO to)
+          (VP
+            (VB dispute)
+            (NP it))))))
+  (PUNC .))
+
+2
+----------------------------------------
+(TOP
+  (X2
+    (NP
+      (ADJP Old)
+      (Nom people))
+    (VP
+      (VBP consider)
+      (S
+        (NP arthritis)
+        (NP
+          (Det a)
+          (Nom
+            (ADJP scary)
+            (Nom disease))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (ADJP Old)
+      (Nom people))
+    (VP
+      (VBP consider)
+      (S
+        (NP arthritis)
+        (NP
+          (Det a)
+          (Nom
+            (Adj scary)
+            (Nom disease))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Adj Old)
+      (Nom people))
+    (VP
+      (VBP consider)
+      (S
+        (NP arthritis)
+        (NP
+          (Det a)
+          (Nom
+            (ADJP scary)
+            (Nom disease))))))
+  (PUNC .))
+
+(TOP
+  (X2
+    (NP
+      (Adj Old)
+      (Nom people))
+    (VP
+      (VBP consider)
+      (S
+        (NP arthritis)
+        (NP
+          (Det a)
+          (Nom
+            (Adj scary)
+            (Nom disease))))))
+  (PUNC .))
+
+4
+----------------------------------------
