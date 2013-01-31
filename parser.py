@@ -1,7 +1,10 @@
 #!/usr/bin/env python2.7
 
 """
-author: Stefan Behr
+Kathryn Nichols
+Stefan Behr
+LING 571
+Project 1
 """
 
 import re

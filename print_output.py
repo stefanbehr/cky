@@ -1,3 +1,10 @@
+"""
+Kathryn Nichols
+Stefan Behr
+LING 571
+Project 1
+"""
+
 import re
 
 # Returns parses as a string
